@@ -9,4 +9,4 @@ None of these projects are official projects.
 Every project in this repository are unofficial projects made for personal practice.
 
 
-Copyright 2019, Richelle Tan, All rights reserved.
+<b> Copyright 2019, Richelle Tan, All rights reserved. </b>
