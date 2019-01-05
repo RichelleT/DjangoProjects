@@ -1,6 +1,6 @@
 # DjangoProjects
 
-Every single project, folder and files in this repository is made and coded by me and only me unless stated.
+Every single project, folder and files in this repository is made and coded by me and only me unless stated otherwise.
 
 Nothing and nothing in this repository is copied.
 
