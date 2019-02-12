@@ -16,3 +16,6 @@ def bookone(request):
 
 def skyrim(request):
     return render(request, 'Alpha/skyrim.html')
+
+def oblivion(request):
+	return render(request, 'Alpha/oblivion.html')
