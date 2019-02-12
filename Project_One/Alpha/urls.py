@@ -7,4 +7,5 @@ urlpatterns = [
     path('bookone/', views.bookone, name='Alpha-BookOne'),
     path('skyrim/', views.skyrim, name='Alpha-Skyrim'),
     path('oblivion/', views.oblivion, name='Alpha-Oblivion'),
+    path('skyrim/oblivion', views.oblivion, name='Alpha-Oblivion'),
 ]
