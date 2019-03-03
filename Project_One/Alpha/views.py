@@ -8,14 +8,3 @@ def home(request):
 
 def about(request):
     return render(request, 'Alpha/about.html')
-
-
-def bookone(request):
-    return render(request, 'Alpha/bookone.html')
-
-
-def skyrim(request):
-    return render(request, 'Alpha/skyrim.html')
-
-def oblivion(request):
-	return render(request, 'Alpha/oblivion.html')
