@@ -4,4 +4,4 @@ Project One is a web application that i am using to learn to HTML, CSS, and Java
 ## Project One is a project that is in progress. 
 ## ALL codes that is included in this project folder is written only by me unless stated otherwise.
 
-# 
+# Copyright 2019, Richelle Tan, All rights reserved. 
