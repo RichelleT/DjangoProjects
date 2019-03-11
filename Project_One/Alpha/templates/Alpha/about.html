@@ -1,9 +1,26 @@
+{% load static %}
 <!DOCTYPE html>
 <html>
 <head>
-  <title> About Me </title>
+
+  <title> 
+    About - RT
+  </title>
+
+  <link rel="stylesheet" type="text/css" href="{% static 'Alpha/main.css' %}">
+
+  <script src="{% static 'Alpha/main.js' %}"> </script>
+
+  <meta name="viewport" content="width=device-width">
+
 </head>
+
 <body>
+
+<ul>
+  <li><a class="active" href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+</ul>
 
 </body>
 </html>

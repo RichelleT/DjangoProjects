@@ -19,4 +19,37 @@
     border-color: rgb(0,100,204);
 }
 
-	
+body {
+	margin:0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(0,125,204);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(0,160,153);
+}
+
+.active {
+  background-color: rgb(153,0,200);
+}
