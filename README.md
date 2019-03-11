@@ -10,7 +10,7 @@ with the inclusion of
 
 JavaScript, HTML5, and CSS3.
 
-## All codes are written by me and only me.
+## ALL codes are written by me and only me unless stated otherwise.
 
 
 # Copyright 2019, Richelle Tan, All rights reserved. 
