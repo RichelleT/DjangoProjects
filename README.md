@@ -1,12 +1,14 @@
 # DjangoProjects
 
-Every single project, folder and files in this repository is made and coded by me and only me unless stated otherwise.
+This repository documents and records my process of learning 
 
-Nothing and nothing in this repository is copied.
+Web Application or Web Design 
 
-None of these projects are official projects.
+with 
 
-Every project in this repository are unofficial projects made for personal practice.
+JavaScript, HTML5, CSS3 and last but not least DJango.
+
+## All codes are written by me and only me.
 
 
-<b> Copyright 2019, Richelle Tan, All rights reserved. </b>
+# Copyright 2019, Richelle Tan, All rights reserved. 
