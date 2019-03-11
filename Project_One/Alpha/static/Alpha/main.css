@@ -3,12 +3,17 @@
 	font-size: 40px;
 	color: #DC143C;
 	background-color: #AFEEEE;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(0,100,204);
 }
 
 .containerOne {
 	font-family: 'Raleway', sans-serif;
 	display: flex;
 	font-size: 35px;
-	color: #EE82EE;
-	background-color: #696969;
+	color: rgb(75,0,204);
+	background-color: #AFEEEE;
 }
+
+	
