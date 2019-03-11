@@ -1,4 +1,7 @@
-!! This is a website building project that is still in progress !!
+# Project One
+Project One is a web application that i am using to learn to HTML, CSS, and JavaScript 
 
-This website is to enable people to easily find and read every book in the elder scrolls game 
-that is categorized neatly by version of game and era
+## Project One is a project that is in progress. 
+## ALL codes that is included in this project folder is written only by me unless stated otherwise.
+
+# 
