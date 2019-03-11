@@ -4,9 +4,11 @@ This repository documents and records my process of learning
 
 Web Application or Web Design 
 
-with 
+with DJango
 
-JavaScript, HTML5, CSS3 and last but not least DJango.
+with the inclusion of 
+
+JavaScript, HTML5, and CSS3.
 
 ## All codes are written by me and only me.
 
