@@ -4,3 +4,11 @@
 	color: #DC143C;
 	background-color: #AFEEEE;
 }
+
+.containerOne {
+	font-family: 'Raleway', sans-serif;
+	display: flex;
+	font-size: 35px;
+	color: #EE82EE;
+	background-color: #696969;
+}
