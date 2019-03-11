@@ -8,3 +8,9 @@ def home(request):
 
 def about(request):
     return render(request, 'Alpha/about.html')
+
+def repo(request):
+	return render(request, 'Alpha/repo.html')
+
+def cv(request):
+	return render(request, 'Alpha/cv.html')
