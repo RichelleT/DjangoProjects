@@ -3,7 +3,6 @@ body {
 }
 
 ul {
-	font-family: 'Raleway', sans-serif;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -19,7 +18,6 @@ li {
 }
 
 li a {
-	font-family: 'Raleway', sans-serif;
 	display: block;
 	color: white;
 	text-align: center;
