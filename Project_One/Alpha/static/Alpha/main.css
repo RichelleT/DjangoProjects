@@ -25,6 +25,11 @@ header {
 	border-bottom: rgb(150,0,204) 3px solid;
 }
 
+ul {
+	margin:0;
+	padding:0;
+}
+
 header a {
 	color: #ffffff;
 	text-decoration: none;
@@ -58,7 +63,7 @@ header nav {
 }
 
 header .highlight, header .current a {
-	color: rgb(250, 255, 0);
+	color: rgb(255, 0, 110);
 	font-weight:bold;
 }
 
@@ -72,7 +77,7 @@ Showcase
 */
 #showcase {
 	min-height: 400px;
-	background: url('/static/img/tHome.jpeg') no-repeat 0 200px;
+	background: url('/static/img/twoHome.png') -200px -350px no-repeat fixed; 
 	text-align: center;
 	color: #ffffff;
 }
