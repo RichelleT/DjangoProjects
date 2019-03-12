@@ -30,6 +30,24 @@ ul {
 	padding:0;
 }
 
+.button_1 {
+	height:38px;
+	background:#e8491d;
+	border:0;
+	padding-left:20px;
+	padding-right: 20px;
+	color:#ffffff;
+
+}
+
+/*
+end of global
+*/
+
+/* 
+header 
+*/
+
 header a {
 	color: #ffffff;
 	text-decoration: none;
@@ -73,6 +91,10 @@ header a:hover {
 }
 
 /* 
+end of header
+*/
+
+/* 
 Showcase 
 */
 #showcase {
@@ -91,6 +113,14 @@ Showcase
 #showcase p {
 	font-size:20px;
 }
+
+/*
+end of showcase
+*/
+
+/*
+SubEmail 
+*/
 
 #subUpdate {
 	padding:15px;
@@ -111,6 +141,10 @@ Showcase
 	height:30px;
 	width:250px;
 }
+
+/*
+end of subEmail
+*/
 
 footer {
 	font-family: 'Montserrat', sans-serif;
