@@ -58,7 +58,6 @@ header nav {
 }
 
 header .highlight, header .current a {
-	font-family: 'Montserrat', sans-serif;
 	color: rgb(250, 255, 0);
 	font-weight:bold;
 }
