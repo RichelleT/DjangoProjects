@@ -16,15 +16,6 @@ Global - can be put anywhere
 	overflow: hidden;
 }
 
-header {
-	font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(to bottom, white, rgb(0,180,255));
-	color: rgb(170,0,255);
-	padding-top: 30px;
-	min-height: 70px;
-	border-bottom: rgb(150,0,204) 3px solid;
-}
-
 ul {
 	margin:0;
 	padding:0;
@@ -47,6 +38,15 @@ end of global
 /* 
 header 
 */
+
+header {
+	font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, white, rgb(0,180,255));
+	color: rgb(170,0,255);
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: rgb(150,0,204) 3px solid;
+}
 
 header a {
 	color: #ffffff;
