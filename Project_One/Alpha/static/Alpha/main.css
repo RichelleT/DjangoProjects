@@ -17,8 +17,8 @@ Global - can be put anywhere
 }
 
 header {
-	background-color: rgb(0,255,165); 
-	color: rgb(0,0,255);
+	background-color: rgb(0,160,255); 
+	color: rgb(170,0,255);
 	padding-top: 30px;
 	min-height: 70px;
 	border-bottom: rgb(150,0,204) 3px solid;
@@ -57,7 +57,7 @@ header nav {
 }
 
 header .highlight, header .current a {
-	color: #e8491d;
+	color: rgb(250, 255, 0);
 	font-weight:bold;
 }
 
@@ -71,5 +71,16 @@ Showcase
 */
 #showcase {
 	min-height: 400px;
-	background: url('Alpha/Media/homePage.png');
+	background: url('Alpha/Media/homePage.jpg') no-repeat 0 -400px;
+	text-align:center;
+}
+
+#showcase h1 {
+	margin-top:100px;
+	font-size:55px;
+	margin-bottom:10px;
+}
+
+#showcase p {
+	font-size:20px;
 }
