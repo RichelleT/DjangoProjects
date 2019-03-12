@@ -72,7 +72,7 @@ Showcase
 */
 #showcase {
 	min-height: 400px;
-	background: url('/static/img/homeTwo.jpg') 0 20% no-repeat fixed;
+	background: url('/static/img/homeTwo.jpg') 44% 51% no-repeat fixed;
 	text-align: center;
 	color: #ffffff;
 }
@@ -101,7 +101,7 @@ Showcase
 	float:right;
 	margin-top:15px;
 }
-#subUpdate inuput[type="email"] {
+#subUpdate input[type="email"] {
 	padding:5px;
 	height:30px;
 	width:250px;
