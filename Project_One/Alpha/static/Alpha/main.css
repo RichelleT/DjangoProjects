@@ -151,3 +151,22 @@ footer {
 	font-size: 20px;
 	text-align: center;
 }
+
+/*
+boxes
+*/
+
+#boxes {
+	margin-top: 20px;
+}
+
+#boxes .box {
+	float:left;
+	text-align: center;
+	width:30%;
+	padding:10px;
+}
+
+/* 
+end of boxes
+*/
