@@ -72,7 +72,7 @@ Showcase
 */
 #showcase {
 	min-height: 400px;
-	background: url('/static/img/homeT.jpg') 44% 51% no-repeat fixed;
+	background: url('/static/img/homeT.jpg') 50% 50% no-repeat fixed;
 	text-align: center;
 	color: #ffffff;
 }
