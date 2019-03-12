@@ -7,7 +7,9 @@ body {
 	background-color: rgb(255,0,155);
 }
 
-/* Global - can be put anywhere */
+/* 
+Global - can be put anywhere 
+*/
 .container {
 	width: 80%;
 	margin: auto;
@@ -45,4 +47,29 @@ header #siteName {
 	float: left;
 }
 
-header #siteName
+header #siteName h1 {
+	margin: 0;
+}
+
+header nav {
+	float:right;
+	margin-top:10px;
+}
+
+header .highlight, header .current a {
+	color: #e8491d;
+	font-weight:bold;
+}
+
+header a:hover {
+	color:#cccccc;
+	font-weight:bold;
+}
+
+/* 
+Showcase 
+*/
+#showcase {
+	min-height: 400px;
+	background: url('');
+}
