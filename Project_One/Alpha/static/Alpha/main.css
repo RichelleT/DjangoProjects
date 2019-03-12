@@ -71,8 +71,8 @@ Showcase
 */
 #showcase {
 	min-height: 400px;
-	background: url('Alpha/Media/homePage.jpg') no-repeat 0 -400px;
-	text-align:center;
+	background: url('../img/homepage.jpg') no-repeat 0 -400px;
+	text-align: center;
 }
 
 #showcase h1 {
