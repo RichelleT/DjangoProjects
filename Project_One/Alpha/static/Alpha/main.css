@@ -147,6 +147,10 @@ end of subEmail
 */
 
 footer {
+	padding:20px;
+	margin-top: 20px;
+	color:#ffffff;
+	background-color: #e8491d;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 20px;
 	text-align: center;
